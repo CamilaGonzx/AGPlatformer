@@ -1,6 +1,6 @@
 # Procedural Level Generation with Controlled Difficulty Using Genetic Algorithms 
 
-Project Overview
+# Project Overview
 This project implements a genetic algorithm to generate procedurally designed platformer levels with a controlled difficulty curve. By evolving level layouts over multiple generations, the algorithm optimizes enemy placement, platform positioning, and reward distribution to create engaging and balanced gameplay experiences.
 
 Why is this project useful?
